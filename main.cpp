@@ -1,1 +1,4 @@
-may gio don con
+int main()
+{
+    return 0;
+}
